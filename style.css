@@ -1,0 +1,30 @@
+#menu {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo {
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+}
+
+#logo:hover {
+    margin-left: 20px;
+    height: 120px;
+    width: 120px;
+}
+
+body {
+    position: absolute;
+    background-image: url(img/background-pic.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1450px 850px;
+}
+
+#title {
+    background-color: rgba(0,0,0, 0.4);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 1200px;
+    color: whitesmoke;
+    padding-left: 25px; 
+}
